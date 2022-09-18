@@ -8,7 +8,7 @@ import Single from './Single/Single';
 const SignatureDestination = () => {
   const[allDestination,setAllDestination]=useState();
   useEffect(()=>{
-    fetch('./signatureDestination.json')
+    fetch('https://protected-spire-52287.herokuapp.com/signature-destination')
     .then(res=>res.json())
     .then(data=>setAllDestination(data))
   },[])

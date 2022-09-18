@@ -22,7 +22,7 @@ const ModifyData = () => {
         const newData={place,Country,price,oldPrice,duration,img,description};
 
 
-        fetch('http://localhost:5000/signature-destination', {
+        fetch('https://protected-spire-52287.herokuapp.com/signature-destination', {
             method: 'POST',
             headers: {
                 "content-type": "application/json"

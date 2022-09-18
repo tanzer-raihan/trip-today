@@ -10,7 +10,7 @@ import SingleDestination from './SingleDestination/SingleDestination';
 const Destination = () => {
     const [destinations,setDestinations]=useState();
     useEffect(()=>{
-        fetch('./destination.json')
+        fetch('https://protected-spire-52287.herokuapp.com/destinations')
         .then(res=>res.json())
         .then(data=>setDestinations(data))
     },[])
