@@ -1,0 +1,27 @@
+.destinationCard{
+    height: 520px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: .5s ease;
+    border-radius: 3px;
+}
+.destinationCard:hover{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.destinationCard img{
+    height: 250px;
+}
+.cardBtn{
+    background-color: #f8ab30;
+    border: 1px solid #f79e0a;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: white;
+    font-weight: 600;
+    transition: .6s ease;
+}
+.cardBtn:hover{
+    color: black;
+    background-color: white;
+
+
+}

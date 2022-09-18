@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "place": "Nayagra Falls",
+      "Country": "Canada",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A dolores, nesciunt facilis reiciendis molestiae nam!",
+      "price": 6800,
+      "oldPrice":7700,
+      "duration": "7 days",
+      "img": "https://i.ibb.co/0smknrM/pexels-sergey-pesterev-8357711.jpg"
+    },
+    {
+      "id": 2,
+      "place": "Sikkim",
+
+      "Country": "India",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A dolores, nesciunt facilis reiciendis molestiae nam!",
+      "price": 5700,
+      "oldPrice":6700,
+      "duration": "7 days",
+      "img": "https://i.ibb.co/w6LXq3q/pexels-saheb-santanu-4614927.jpg"
+    },
+    {
+      "id": 3,
+      "place": "Dublin",
+      "Country": "Ireland",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A dolores, nesciunt facilis reiciendis molestiae nam!",
+      "price": 7700,
+      "oldPrice":8700,
+      "duration": "7 days",
+      "img": "https://i.ibb.co/w0B1qkY/pexels-luciann-photography-3566191.jpg"
+    },
+    {
+      "id": 4,
+      "place": "Shanghai",
+      "Country": "China",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A dolores, nesciunt facilis reiciendis molestiae nam!",
+      "price": 5800,
+      "oldPrice":6700,
+      "duration": "7 days",
+      "img": "https://i.ibb.co/w0B1qkY/pexels-luciann-photography-3566191.jpg"
+    },
+    {
+      "id": 5,
+      "place": "London",
+      "Country": "England",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A dolores, nesciunt facilis reiciendis molestiae nam!",
+      "price": 8700,
+      "oldPrice":9500,
+      "duration": "7 days",
+      "img": "https://i.ibb.co/0rCpc4c/pexels-pixabay-258117.jpg"
+    },
+    {
+      "id": 6,
+      "place": "Sydney",
+      "Country": "Australia",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A dolores, nesciunt facilis reiciendis molestiae nam!",
+      "price": 8400,
+      "oldPrice":9700,
+      "duration": "7 days",
+      "img": "https://i.ibb.co/yQCVLjW/pexels-marek-piwnicki-7192681.jpg"
+    }
+  ]

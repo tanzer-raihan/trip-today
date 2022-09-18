@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "place": "Berlin",
+      "country": "Germany",
+      "img": "https://i.ibb.co/x1XZsc4/germany.jpg"
+    },
+    {
+      "id": 2,
+      "place": "Venice",
+      "country": "Italy",
+      "img": "https://i.ibb.co/R3shbm9/italy.jpg"
+    },
+    {
+      "id": 3,
+      "place": "Matamata",
+      "country": "New Zealand",
+      "img": "https://i.ibb.co/P5mznmY/new-zealand.jpg"
+    },
+    {
+      "id": 4,
+      "place": "Interlaken",
+      "country": "Switzerland",
+      "img": "https://i.ibb.co/Cs8Lhkr/switzerland.jpg"
+    },
+    {
+      "id": 5,
+      "place": "Istambul",
+      "country": "Turkey",
+      "img": "https://i.ibb.co/F32KnXg/turkey.jpg"
+    },
+    {
+      "id": 6,
+      "place": "Miami",
+      "country": "USA",
+      "img": "https://i.ibb.co/7tMthbS/usa.jpg"
+    }
+  ]

@@ -1,0 +1,14 @@
+.opinionContainer{
+    background-color: #f79e0a;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    margin-bottom: 50px;
+    
+}
+.slick-slide>div{
+    margin: 0 10px;
+    
+}
+.slick-list{
+    margin: 0 -10px;
+}

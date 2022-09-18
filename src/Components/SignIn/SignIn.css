@@ -1,0 +1,76 @@
+
+.singInFormContainer{
+    padding: 15px;
+ 
+    background-image: linear-gradient(#25292b,
+    #49575b,
+
+    #5b6c73);
+    padding: 70px;
+}
+
+.signInForm {
+    width: 400px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+    border-radius: 2px;
+    background-color: white;
+
+
+}
+
+.emailField,
+.passwordField {
+    outline: none;
+    padding: 3px 10px;
+    background-color: white;
+    font-weight: 500;
+    border: 1px solid gray;
+    width: 100%;
+    border-radius: 3px;
+    transition: .5s ease;
+
+}
+
+.emailField:focus,
+.passwordField:focus {
+    border: 1px solid #ffa600;
+    box-shadow: rgba(237, 177, 11, 0.463) 0px 3px 8px, rgba(235, 181, 4, 0.1) 0px 4px 10px, rgba(239, 188, 2, 0.1) 0px 6px 10px;
+}
+
+.signInBtn {
+    width: 100%;
+    background-color: #ffa600;
+    color: black;
+    font-weight: 500;
+    border-radius: 3px;
+    border: 1px solid #ffa600;
+    padding: 5px;
+    transition: .5s ease;
+}
+
+.signInBtn:hover,
+.create-account-btn:hover {
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    background-color: #ffa600;
+}
+
+.notice {
+    font-size: 12px;
+}
+
+.create-account-btn {
+    width: 400px;
+    background-color: #ffa600;
+    color: black;
+    font-weight: 500;
+    border-radius: 3px;
+    border: 1px solid #ffa600;
+    padding: 5px;
+    transition: .5s ease;
+}
+
+.create-account-btn:hover {
+    background-color: #ffb326;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}

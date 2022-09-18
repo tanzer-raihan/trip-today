@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "headeing": "Personalized Matching",
+      "icon":"fa-solid fa-bookmark",
+      "description": "Choose your preferable guide and have a excellent journey. You have all opportunity to select our service according to your preference"
+    },
+    {
+      "id": 2,
+      "headeing": "Wide Variety Of Destination",
+      "icon":"fa-solid fa-box-archive",
+      "description": "We provide more than 35 destination to choose. Our reliable partners are always ready to treat you best. All you need is just go and explore"
+    },
+    {
+      "id": 3,
+      "headeing": "Highly Qualified Service",
+      "icon":"fa-solid fa-boxes-packing",
+      "description": "We have been renowned for years because of providing our customer all the things they need to have a great holiday experience. We always strive to ensure your the best trip."
+    },
+    {
+      "id": 4,
+      "headeing": "Handpicked Hotels",
+      "icon":"fa-solid fa-box-open",
+      "description": "We stay in the core point of the destination so  that our client can enjoy the best scenario of the place. You can have all the things you need within just a minute."
+    },
+    {
+      "id": 5,
+      "headeing": "Best Price Gurantee",
+      "icon":"fa-solid fa-parachute-box",
+      "description": "TripToday is always well known for its high quality services within accessible price. You can also enjoy discount by getting our premier membership."
+    },
+    {
+      "id": 6,
+      "headeing": "24/7 support",
+      "icon":"fa-solid fa-toolbox",
+      "description": "Our expert travel enthusiasts are always prepared to meet your need and assist you in any kind of trouble. You can call them whenever you need an emergency."
+    }
+  ]

@@ -1,0 +1,49 @@
+.footer {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background-color: #232328;
+
+}
+
+.footerContent {
+   
+    padding-bottom: 30px;
+    border-bottom: 1px solid gray;
+
+}
+
+.linkSection {
+    text-decoration: none;
+
+}
+
+.linkSection h3 {
+    color: white;
+}
+
+.linkSection h5 {
+    color: gray;
+}
+
+.linkSection h5:hover {
+    color: white;
+}
+
+.copyrightAndMedia {
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    color: gray;
+    font-size: 20px;
+}
+
+.media {
+    margin-right: 10px;
+
+}
+
+.media:hover {
+    color: white;
+}

@@ -1,0 +1,42 @@
+.navinactive{
+    background-color:transparent;
+}
+.navactive{
+    background-color: #1e1e1e;
+    
+}
+.navbar{
+    line-height: 50px;
+}
+.brandName{
+    color:#f79e0a;
+}
+
+.navLink{
+    text-decoration: none;
+    color: white;
+
+}
+.navLink:hover{
+    color: #f79e0a;
+}
+.selected{
+   text-decoration: underline;
+}
+.active{
+    color: crimson;
+    font-weight: 600;
+    text-decoration: underline;
+   
+}
+.logOutBtn{
+    background-color: transparent;
+    border: none;
+    font-weight: 500;
+    color: white;
+}
+.logOutBtn:hover{
+    color: #f79e0a;
+}
+
+

@@ -1,0 +1,48 @@
+.banner{
+  position: relative;
+  text-align: center;
+}
+.banner img{
+    width: 100%;
+    height:700px;
+    filter: brightness(60%);
+}
+.bannercontainer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    
+  
+}
+.bannercontainer h1{
+    font-size: 50px;
+    margin-top: 50px;
+}
+.brandName{
+    color: #ffa600;
+}
+
+
+
+
+.bookBtn {
+    padding: 14px 35px;
+    background-color: #f79e0a;
+    color: white;
+    border: 1.5px solid #f69903;
+    border-radius: 30px;
+    font-weight: bolder;
+    font-size: large;
+    transition: .6s ease;
+
+
+
+}
+
+.bookBtn:hover {
+    background-color: transparent;
+}

@@ -1,0 +1,32 @@
+.contentContainer{
+    background-color: #f9f9f9;
+    padding-bottom: 80px;
+
+}
+.weText{
+    padding-left: 20px;
+}
+.weText p{
+    color: gray;
+    font-weight: 500;
+
+}
+
+.learnMoreBtn {
+    padding: 14px 35px;
+    background-color: #f79e0a;
+    color: white;
+    border: 1.5px solid #f69903;
+    border-radius: 30px;
+    font-weight: bolder;
+    font-size: large;
+    transition: .6s ease;
+
+
+
+}
+
+.learnMoreBtn:hover {
+    background-color: transparent;
+    color: black;
+}

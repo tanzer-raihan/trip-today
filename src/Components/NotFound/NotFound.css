@@ -1,0 +1,11 @@
+.notFound{
+    padding: 100px;
+    color:rgb(241, 155, 7);
+    background-color: rgb(44, 42, 42);
+    text-align: center;
+    
+}
+.notFound h1{
+    font-size: 80px;
+    font-weight: bolder;
+}
